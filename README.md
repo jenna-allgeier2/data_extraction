@@ -1,3 +1,3 @@
 # data_extraction
 
-## Use the pipenv shell to make changes in the terminal.
+### Run $ python3 data_extraction.py in the pipenv shell to view the data frame (or whichever version of python you have installed).
